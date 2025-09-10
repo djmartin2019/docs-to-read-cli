@@ -1,0 +1,32 @@
+[
+    {
+        "doc_id": 1,
+        "title": "boto3",
+        "link": "https://boto3.amazonaws.com/v1/documentation/api/latest/index.html",
+        "status": "NOT_STARTED"
+    },
+    {
+        "doc_id": 2,
+        "title": "Define Lambda function handler in Python",
+        "link": "https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html#:~:text=,Python%2C%20this%20may%20look%20like",
+        "status": "NOT_STARTED"
+    },
+    {
+        "doc_id": 3,
+        "title": "PyTorch",
+        "link": "https://pypi.org/project/torch/",
+        "status": "NOT_STARTED"
+    },
+    {
+        "doc_id": 4,
+        "title": "torchvision",
+        "link": "https://pypi.org/project/torchvision/",
+        "status": "NOT_STARTED"
+    },
+    {
+        "doc_id": 5,
+        "title": "TensorFlow",
+        "link": "https://www.tensorflow.org/api_docs",
+        "status": "NOT_STARTED"
+    }
+]
