@@ -1,0 +1,13 @@
+[project]
+name = "docs-to-read-cli"
+version = "0.1.0"
+description = "Track documentation you want to read"
+authors = [{ name="David Martin" }]
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+docs = "docs_cli.main:main_menu"
+

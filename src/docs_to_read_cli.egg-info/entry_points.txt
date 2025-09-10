@@ -1,0 +1,2 @@
+[console_scripts]
+docs = docs_cli.main:main_menu

@@ -1,0 +1,10 @@
+pyproject.toml
+src/docs_cli/__init__.py
+src/docs_cli/documentation_class.py
+src/docs_cli/main.py
+src/docs_cli/modules.py
+src/docs_to_read_cli.egg-info/PKG-INFO
+src/docs_to_read_cli.egg-info/SOURCES.txt
+src/docs_to_read_cli.egg-info/dependency_links.txt
+src/docs_to_read_cli.egg-info/entry_points.txt
+src/docs_to_read_cli.egg-info/top_level.txt
