@@ -1,4 +1,4 @@
-from .modules import create_documentation, list_documentation
+from .modules import create_documentation, list_documentation, update_documentation, delete_documentation
 
 def main_menu():
     while True:
@@ -28,8 +28,10 @@ def main_menu():
                 create_documentation()
             case 3:
                 print("Update Documentation Record")
+                update_documentation()
             case 4:
                 print("Delete Documentation")
+                delete_documentation()
             case 5:
                 print("Exiting program")
                 break
