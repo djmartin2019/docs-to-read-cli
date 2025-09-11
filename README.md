@@ -66,8 +66,7 @@ python src/docs_cli/main.py
 
 ## 🚀 Roadmap
 
-- Add update functionality
-- Add delete functionality
+- Add feature to open links in browser
 - Support search/filter
 - Export to CSV/Markdown
 - Package to PyPI for pip install docs-to-read-cli
